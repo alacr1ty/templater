@@ -1,7 +1,7 @@
-Templater.py
+# Templater.py
+	By Ava Cordero
 
 	A simple python program to build websites by generating html files from template files.
-	By Ava Cordero
 
 Overview
 
