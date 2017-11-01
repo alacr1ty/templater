@@ -1,0 +1,35 @@
+.		<!-- One -->
+			<section id="one" class="wrapper style2">
+				<div class="inner">
+					<div>
+						<div class="box">
+							<div class="content overview">
+								<header class="align-center">
+									<h2>REMOTE SUPPORT APPOINTMENTS</h2>
+									<p>here we'll assist you to connect with a certified remote support agent to resolve your IT issues. if you need to make a new appointment, you can click <a href="contact.html">here</a>, or just email us at <a href="mailto:info@example.com">info@example.com</a>.</p>
+								</header>
+								<hr />
+								<p> if it's already time for your appointment, you should receive a phone call as soon as the support agent is ready to help you. In preparation to receive one-on-one IT and network support, you should do the following:</p> 
+									<ul>
+										<li>Download and install the TeamViewer QuickSupport app here:
+											<ul>
+												<li><a href="https://download.teamviewer.com/download/TeamViewerQS.exe">Windows</a></li>
+												<li><a href="https://download.teamviewer.com/download/TeamViewerQS.dmg">Mac</a></li>
+												<li><a href="https://www.teamviewer.com/en/download/linux/">Linux</a></li>
+											</ul>
+										</li>
+										<li>Get the following ready for your support agent:
+											<ul>
+												<li>A cabled internet connection to the computer or network to be serviced, such as an Ethernet, Coax, or Fiber uplink</li>
+												<li>An administrator username and password for the machine or network to be serviced (we recommend a temporary admin account and/or password for the explicit purpose of your appointment)</li>
+												<li>Your TeamViewer Partner ID code</li>
+											</ul>
+										</li>
+										<li>If you are not able to get these things ready, your remote support agent will be happy to assist you.</li>
+									</ul>
+								<p>enterprise strong has never been so simple.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>

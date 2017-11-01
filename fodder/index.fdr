@@ -1,0 +1,111 @@
+		<!-- Banner -->
+		<!--
+			To use a video as your background, set data-video to the name of your video without
+			its extension (eg. images/banner). Your video must be available in both .mp4 and .webm
+			formats to work correctly.
+		-->
+			<section id="banner">
+				<div class="inner">
+					<h1>Home</h1>
+					<p>where simplicity becomes reality</p>
+					<a href="#one" class="button special scrolly">Make It Happen</a>
+				</div>
+			</section>
+
+		<!-- One -->
+			<section id="one" class="wrapper style2">
+				<div class="inner">
+					<div>
+						<div class="box">
+							<div class="content overview">
+								<header class="align-center">
+									<h2>Who are we?</h2>
+									<p>We manifests holistic commercial solutions for IT infrastructure, automation, and support.</p>
+								</header>
+								<hr />
+								<p> from right here you can deploy physical or virtual machines, deploy preconfigured networks, receive one-on-one IT and network support, deploy infrastructure automation, and much more. deploying machines to your network, or virtual nodes to your cloud compute arsenal, has never been so simple. now you can create enterprise strong at the click of a button.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+		<!-- Two -->
+			<section id="two" class="wrapper style3">
+				<div class="inner">
+					<div id="flexgrid">
+						<div>
+							<header>
+								<h3>deploy</h3>
+							</header>
+							<p>deploy any number of physical or virtual machines to your network configuration</p>
+							<ul class="actions">
+								<li><a href="#three" class="button alt">Learn More</a></li>
+							</ul>
+						</div>
+						<div>
+							<header>
+								<h3>support</h3>
+							</header>
+							<p>support plans give you on-the-spot assistance with any issues your enterprise may encounter</p>
+							<ul class="actions">
+								<li><a href="#three" class="button alt">Learn More</a></li>
+							</ul>
+						</div>
+						<div>
+							<header>
+								<h3>automate</h3>
+							</header>
+							<p>cutting-edge automation technologies allow you to make magic happen without the slightest effort</p>
+							<ul class="actions">
+								<li><a href="#three" class="button alt">Learn More</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</section>
+
+		<!-- Three -->
+			<section id="three" class="wrapper style2">
+				<div class="inner">
+					<div class="grid-style">
+
+						<div>
+							<a href="shop.html">
+								<div class="box">
+									<div class="image fit">
+										<img src="images/pic02.jpg" alt="" />
+									</div>
+									<div class="content">
+										<header class="align-center">
+											<h2>Machines and Network Packages</h2>
+											<p></p>
+										</header>
+										<hr />
+										<p> Deploy physical or virtual machines, or preconfigured network packages, to get your business up and running fast.</p>
+									</div>
+								</div>
+							</a>
+						</div>
+
+						<div>
+							<a href="support.html">
+								<div class="box">
+									<div class="image fit">
+										<img src="images/pic03.jpg" alt="" />
+									</div>
+									<div class="content">
+										<header class="align-center">
+											<h2>Support and Automation Packages</h2>
+											<p></p>
+										</header>
+										<hr />
+										<p> Plan ahead with support packages and automation frameworks that future-proof your enterprise.</p>
+									</div>
+								</div>
+							</a>
+						</div>
+
+					</div>
+				</div>
+			</section>
